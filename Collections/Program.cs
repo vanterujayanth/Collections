@@ -25,6 +25,11 @@ namespace inheritancedemo.Collections
             StackDemo s3 = new StackDemo();
             StackGenerics s4 = new StackGenerics();
 
+            class hello
+        {
+
+        }
+
         }
     }
 }
